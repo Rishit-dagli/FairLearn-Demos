@@ -11,4 +11,6 @@ September 2020. Special Thanks to [@ialimustufa](ialimustufa), [@adityaoberai](h
 
 ## [Event announcement](http://bit.ly/aiontour-reg)
 
+## [Tweet](https://twitter.com/nsayali_/status/1305902340575080448?s=20)
+
 ![](https://github.com/Rishit-dagli/AIOnTour-Mumbai-2020/blob/master/images/rishit.jpg)
