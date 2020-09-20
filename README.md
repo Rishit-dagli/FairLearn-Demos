@@ -6,3 +6,5 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)](https://twitter.com/intent/follow?screen_name=rishit_dagli)
 
 My Talk about Teaching your Models to play fair at Global AI On Tour Mumbai 2020
+
+![](https://github.com/Rishit-dagli/AIOnTour-Mumbai-2020/blob/master/images/rishit.jpg)
