@@ -6,6 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)](https://twitter.com/intent/follow?screen_name=rishit_dagli)
 
 My session at [Global AI Community Mumbai](https://www.meetup.com/Global-AI-Community-Mumbai/) about **Teaching your Models to play fair** at Global AI On Tour Mumbai, 27 
-September 2020.
+September 2020. Special Thanks to [@ialimustufa](ialimustufa), [@adityaoberai](https://github.com/adityaoberai), [@gat786](https://github.com/gat786), Manish Kaushik and 
+[@nsayali](https://github.com/nsayali) for hosting me.
 
 ![](https://github.com/Rishit-dagli/AIOnTour-Mumbai-2020/blob/master/images/rishit.jpg)
