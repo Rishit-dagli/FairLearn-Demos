@@ -9,4 +9,6 @@ My session at [Global AI Community Mumbai](https://www.meetup.com/Global-AI-Comm
 September 2020. Special Thanks to [@ialimustufa](ialimustufa), [@adityaoberai](https://github.com/adityaoberai), [@gat786](https://github.com/gat786), Manish Kaushik and 
 [@nsayali](https://github.com/nsayali) for hosting me.
 
+## [Event announcement](http://bit.ly/aiontour-reg)
+
 ![](https://github.com/Rishit-dagli/AIOnTour-Mumbai-2020/blob/master/images/rishit.jpg)
