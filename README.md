@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?label=Follow&style=social)](https://github.com/Rishit-dagli)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)](https://twitter.com/intent/follow?screen_name=rishit_dagli)
 
-|Assess and Mitigate Fairness|FairNess dashboard on AzureML|
+|Assess and Mitigate Fairness|Fairness dashboard on AzureML|
 |:---:|:---:|
 |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rishit-dagli/FairLearn-Demos/HEAD?filepath=binary_credit_card.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rishit-dagli/FairLearn-Demos/HEAD?filepath=fairlearn-azureml.ipynb)|
 
