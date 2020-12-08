@@ -7,7 +7,7 @@
 
 |Assess and Mitigate Fairness|Fairness dashboard on AzureML|
 |:---:|:---:|
-|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rishit-dagli/FairLearn-Demos/HEAD?filepath=binary_credit_card.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rishit-dagli/FairLearn-Demos/HEAD?filepath=fairlearn-azureml.ipynb)|
+|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rishit-dagli/FairLearn-Demos/HEAD?filepath=binary_credit_card.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rishit-dagli/FairLearn-Demos/blob/master/binary_credit_card.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rishit-dagli/FairLearn-Demos/HEAD?filepath=fairlearn-azureml.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rishit-dagli/FairLearn-Demos/blob/master/fairlearn-azureml.ipynb)|
 
 Demos for my session about Teaching your Models to play fair. I would urge you to check out 
 [talks.md](talks.md) for more details and the talks I have given about this.
