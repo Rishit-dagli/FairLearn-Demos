@@ -1,3 +1,12 @@
+# Global AI Student Conference
+
+![](images/aiconf.png)
+
+My session at Microsoft Global AI Student Conference about **Teaching your Models to play fair** , 12 
+December 2020.
+
+## [Event announcement](https://aiconf.education/)
+
 # Global AI Community Mumbai
 
 ![](images/globaimumbai.jpg)
